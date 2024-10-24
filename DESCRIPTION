@@ -1,0 +1,12 @@
+The Quantum Guardian Web project is dedicated to crafting a user-friendly web application that serves
+as a tangible UI and UX for QKD quantum key distribution (QKD) principles, offering a quantum-safe
+encryption alternative to combat eavesdropping and other security threats. The project delves into an
+in-depth exploration of vulnerabilities in classic cryptographic methods, actively engaging users in the
+QKD process, incorporating essential UI and UX principles and functionalities such as login, registration,
+and simulation. The anticipated simulation dashboard outcome will provide not only comprehensive
+demonstrations of security and robustness but also provide an automated means to access and interact
+with user training materials aimed at enhancing understanding. With an explicit goal of aiding individuals
+and organizations in interactively visualizing how QSE use QKD to respond to Quantum threat situations
+effectively responding to quantum threat situations, the proposed system aims to seamlessly integrate
+QKD principles into a user-friendly web application, enabling active user engagement in the QKD
+process.
